@@ -10037,6 +10037,15 @@ spdx-satisfies@^4.0.0:
     spdx-expression-parse "^3.0.0"
     spdx-ranges "^2.0.0"
 
+spdx-satisfies@^5.0.0:
+  version "5.0.0"
+  resolved "https://registry.yarnpkg.com/spdx-satisfies/-/spdx-satisfies-5.0.0.tgz#d740b8f14caeada36fb307629dee87146970a256"
+  integrity sha512-/hGhwh20BeGmkA+P/lm06RvXD94JduwNxtx/oX3B5ClPt1/u/m5MCaDNo1tV3Y9laLkQr/NRde63b9lLMhlNfw==
+  dependencies:
+    spdx-compare "^1.0.0"
+    spdx-expression-parse "^3.0.0"
+    spdx-ranges "^2.0.0"
+
 spdx@^0.5.1:
   version "0.5.2"
   resolved "https://registry.yarnpkg.com/spdx/-/spdx-0.5.2.tgz#76a428b9b97e7904ef83e62a4af0d06fdb50c265"
